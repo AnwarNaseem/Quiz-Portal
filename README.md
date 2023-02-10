@@ -1,4 +1,4 @@
-# Quiz-Portal on concepts of RESTful API design, deployment using Flask, and DBMS concepts with SQL queries.
+Quiz-Portal on concepts of RESTful API design, deployment using Flask, and DBMS concepts with SQL queries.
 
 The program enables users to browse and take the quizzes that have been assigned.
 
